@@ -1,0 +1,23 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "version": "1.0.0",
+  "description": "michaela's first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meekaylah/backend.git"
+  },
+  "keywords": [
+    "first",
+    "package"
+  ],
+  "author": "Michaela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meekaylah/backend/issues"
+  },
+  "homepage": "https://github.com/Meekaylah/backend#readme"
+}
